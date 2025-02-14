@@ -89,7 +89,7 @@ WeChatAI 是一款基于 Python 开发的微信聊天的智能助手，支持多
 ---
 
 ## 许可协议
-[MIT](https://opensource.org/licenses/MIT)
+[GPL](https://opensource.org/license/gpl-1-0)
 
 ## 免责声明
 本软件仅供学习交流使用，请勿用于商业用途。使用本软件产生的任何后果由用户自行承担。
