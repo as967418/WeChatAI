@@ -1,0 +1,22 @@
+wechat-ai-assistant/
+├── main.py                    # 主程序入口
+├── requirements.txt           # 依赖文件
+├── README.md                 # 项目说明
+├── build.py                  # 构建脚本
+|—— resources.qrc             # 资源文件
+|—— resources_rc.py           # 编译后的资源文件
+├── .env                      # 环境变量
+├── .gitignore               # Git忽略文件
+├── core/                    # 核心功能模块
+│   ├── __init__.py
+│   ├── config_manager.py    # 配置管理
+│   ├── chat_manager.py      # 聊天管理
+│   ├── database_manager.py  # 数据库管理
+│   └── ai_manager.py        # AI模型管理
+├── ui/                      # 界面相关
+│   ├── __init__.py
+│   ├── main_window.py      # 主窗口
+│   ├── settings_dialog.py  # 设置对话框
+│   └── resources/          # 资源文件
+└── data/                   # 数据存储
+    └── chat_history.db     # SQLite数据库 
