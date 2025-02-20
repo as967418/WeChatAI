@@ -24,7 +24,7 @@ WeChatAI 是一款基于 Python 开发的微信聊天的智能助手，支持多
 
 ## 安装说明
 1. git clone后，运行requirements.txt文件，安装依赖
-2. 运行build.py文件，生成WeChatAI.exe
+2. 使用pyinstaller打包，生成WeChatAI.exe
 3. 确保微信已登录并保持运行
 4. 运行 WeChatAI.exe 即可使用
 
