@@ -14,8 +14,8 @@ WeChatAI 是一款基于 Python 开发的微信聊天的智能助手，支持多
 - 问答数据本地存储，保护隐私
   
 ## 使用截图
-![基本配置](https://wmimg.com/i/1119/2025/02/67ae98937812b.png)
-![使用截图](https://wmimg.com/i/1119/2025/02/67ae988ff30fe.png)
+![基本配置](image/配置1.png)
+![使用截图](image/使用截图.png)
 
 ## 系统要求
 - Windows 10/11 64位操作系统
