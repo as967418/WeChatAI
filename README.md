@@ -2,7 +2,7 @@
 
 ## 项目介绍
 WeChatAI 是一款基于 Python 开发的微信聊天的智能助手，支持多种大语言模型，可以实现智能对话、自动回复等功能。采用现代化的界面设计，操作简单直观。
-[项目地址](https://github.com/Vita0519/WeChatAI.git)
+[项目地址](https://github.com/as967418/WeChatAI)
 
 ## 功能特点
 - 支持多个AI模型（DeepSeek、Gemini、通义千问）
@@ -69,14 +69,11 @@ WeChatAI 是一款基于 Python 开发的微信聊天的智能助手，支持多
 - 确认触发词使用正确
 
 ## 技术支持
-- pyside6
-- wxauto
-- 邮箱：1929783231@qq.com
-- 网站：https://www.allfather.top
+
 
 ## 联系方式
 
-<div align="center"><table><tbody><tr><td align="center"><b>个人QQ</b><br><img src="https://wmimg.com/i/1119/2025/02/67a96bb8d3ef6.jpg" width="250" alt="作者QQ"><br><b>QQ：154578485</b></td><td align="center"><b>QQ交流群</b><br><img src="https://wmimg.com/i/1119/2025/02/67a96bb8d6457.jpg" width="250" alt="QQ群二维码"><br><small>群内会更新个人练手的python项目</small></td><td align="center"><b>微信赞赏</b><br><img src="https://wmimg.com/i/1119/2024/09/66dd37a5ab6e8.jpg" width="500" alt="微信赞赏码"><br><small>要到饭咧？啊咧？啊咧？不给也没事~ 请随意打赏</small></td><td align="center"><b>支付宝赞赏</b><br><img src="https://wmimg.com/i/1119/2024/09/66dd3d6febd05.jpg" width="300" alt="支付宝赞赏码"><br><small>如果觉得有帮助,来包辣条犒劳一下吧~</small></td></tr></tbody></table></div>
+
 
 ---
 
